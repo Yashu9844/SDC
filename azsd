@@ -1,0 +1,26 @@
+# Project Title: Portfolio
+
+## Description
+This project is a personal portfolio showcasing my skills, projects, and achievements. It serves as a professional overview for potential employers, clients, or anyone interested in learning more about my work.
+
+## Table of Contents
+- [Features](#features)
+- [Installation](#installation)
+- [Usage](#usage)
+- [Technologies Used](#technologies-used)
+- [Project Structure](#project-structure)
+- [Contributing](#contributing)
+- [License](#license)
+- [Contact](#contact)
+
+## Features
+- **Portfolio Overview**: An introduction to who I am and what I do.
+- **Projects Section**: Highlights of the key projects I have worked on.
+- **Skills**: A list of skills and technologies I am proficient in.
+- **Resume/CV**: A link or section containing my resume or curriculum vitae.
+- **Contact Information**: Ways to get in touch with me.
+
+## Installation
+1. Clone the repository.
+   ```bash
+   git clone <repository-url>
